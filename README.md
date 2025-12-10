@@ -9,23 +9,23 @@ This project includes:
 •	URL preview
 •	Clean, modular structure suitable for further expansion (e.g., WordPress, dashboard modules, achievements, etc.)
 ________________________________________
-Features
+##Features
 
-Core Functionality
+##Core Functionality
 •	Build UTM URLs quickly and reliably
 •	Supports Base URL, Campaign Source, Medium, Name, Term, and Content
 •	Real-time preview of generated URL
 •	Copy-to-Clipboard button
 •	Field validation and safety checks
 
-UI / UX
+##UI / UX
 •	Custom SCSS grid system supporting all 12 columns
 •	Breakpoints aligned with common device classes
 •	Reduced motion for accessibility
 •	Color-coded UTM “cards” for clarity
 •	Fully responsive layout
 
-Codebase Characteristics
+##Codebase Characteristics
 •	Modern SCSS structure
 •	Slash division removed (compatible with Dart Sass 2.0)
 •	Modular and maintainable
