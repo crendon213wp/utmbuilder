@@ -1,0 +1,6 @@
+{
+    "destination": "https://example.com/spring-sale",
+    "source": "newsletter",
+    "medium": "email",
+    "campaign": "spring_sale"
+}
